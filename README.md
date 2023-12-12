@@ -6,6 +6,7 @@ Steps for using github:
     - codespace
     - GH pull requests and issues
 - create a readme file
+- create a .gitignore
 - click on soruce control (Ctrl + Shift + G)
 - select Publish to GitHub
 - authorize GH (password required)
