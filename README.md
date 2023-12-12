@@ -8,3 +8,5 @@ Steps for using github:
 - create a readme file
 - click on soruce control (Ctrl + Shift + G)
 - select Publish to GitHub
+- authorize GH (password required)
+- open vscode and choose public repo 
